@@ -1,4 +1,4 @@
-Literature RAG Chat
+# Literature RAG Chat
 
 ## Overview
 
